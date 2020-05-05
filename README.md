@@ -1,3 +1,4 @@
+# CÓDIGO FORA DE UTILIZAÇÃO
 # crawler-dou
 
 Este é um crawler que faz buscas dentro do site https://www.jusbrasil.com.br/diarios/, ele utiliza o campo de busca do jusbrasil para localizar as páginas de relevância e, em seguida, itera por todas as páginas e armazena suas informações dentro de um dataframe que pode ser esportado para diversos formatos, como json ou csv
