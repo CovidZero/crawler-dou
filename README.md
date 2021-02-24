@@ -13,4 +13,4 @@ Além do código do crawler do jusbrasil, você encontrará em anexo um segundo 
 
 Nos próximos dias devemos definir se continuaremos desenvolvendo a versão principal do crawler ou o novo crawler dentro do site do planalto
 
-Atualizado em 22/03/2020 por Bruno Omena e Arthur Omena 
+Atualizado em 22/03/2020 por Bruno Omena e Emilly Omena 
